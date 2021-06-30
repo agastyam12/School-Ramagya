@@ -1,0 +1,105 @@
+#icon {
+    height:50px;
+    width:50px;
+}
+body{
+    text-align:center;
+}
+marquee{
+    background-color:aquamarine;
+}
+#video{
+    width:100%;
+}
+#principle{
+    width:200px;
+    border-radius:360px;
+    margin-left:300px;
+}
+.my_nav_bar {
+    position:sticky;
+    top:0;
+    z-index:9999;
+}
+html{
+ scroll-behavior:smooth;
+}
+#title{
+    color:azure;
+    font-size:30px;
+}
+.life_mainDiv img {
+    width:100%;
+}
+.life_mainDiv h5{
+    text-align:center;
+}
+.life_mainDiv p{
+    text-align:center;
+}
+.life_mainDiv{
+    float:left;
+    width:33.33%;
+    padding:20px;
+    border:1px solid ##808080;
+}
+.achievement{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:30px;
+    margin-left:100px;
+    margin-right:100px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+#image1{
+    width:60%;
+}
+#image2{
+    width:60%;
+}
+#image3{
+    width:60%;
+}
+#achievement2{
+    width:800px;
+}
+#achievement1{
+    width:800px;
+}
+#achievement3{
+    width:800px;
+}
+#achievements1{
+   width:100% 
+}
+#achievements2{
+   width:100% 
+}
+#achievements3{
+   width:100% 
+}
+#par1{
+  height:50%;
+  overflow:auto;   
+}
+#par2{
+  height:50%;
+  overflow:auto;   
+}
+
+.alumini{
+    cursor:pointer;
+}
+.alumini hr{
+    margin-bottom:10px;
+}
+.modal-content{
+    margin-top:100px;
+}
+.image{
+    height:200px;
+}
